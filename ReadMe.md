@@ -107,6 +107,6 @@
 	
 	source:
 	- *Task1.py*	
-    ![Example](image.png)
+    ![Example](Lection3/image.png)
 
 [К началу](#Задания-по-лекциям-по-Безопасности-программ-и-данных)
